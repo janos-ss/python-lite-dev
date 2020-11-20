@@ -1,1 +1,6 @@
-print('hello world')
+def foo(a):
+  bar(a)
+  
+
+def bar():
+  foo()
